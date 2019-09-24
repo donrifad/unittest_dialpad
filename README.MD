@@ -1,4 +1,4 @@
-<h1>Number Pad Problem<h1>
+<h1>Number Pad Problem</h1>
 
 This is a maven project tests are in test package and application is in java package
 
