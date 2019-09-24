@@ -1,0 +1,42 @@
+ [
+    {
+      "input": "0",
+      "expectedOutPut": "0"
+    },
+     {
+      "input": "1",
+      "expectedOutPut": "1"
+    },
+   {
+     "input": "2",
+     "expectedOutPut": "ABC"
+   },
+   {
+     "input": "3",
+     "expectedOutPut": "DEF"
+   },
+   {
+     "input": "4",
+     "expectedOutPut": "GHI"
+   },
+   {
+     "input": "5",
+     "expectedOutPut": "JKL"
+   },
+   {
+     "input": "6",
+     "expectedOutPut": "MNO"
+   },
+   {
+     "input": "7",
+     "expectedOutPut": "PQRS"
+   },
+   {
+     "input": "8",
+     "expectedOutPut": "TUV"
+   },
+   {
+     "input": "9",
+     "expectedOutPut": "WXYZ"
+   }
+  ]
